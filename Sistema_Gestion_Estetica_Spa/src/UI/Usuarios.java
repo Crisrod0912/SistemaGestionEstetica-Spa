@@ -7,11 +7,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import Model.Usuario;
 
-public class Usuarios extends javax.swing.JFrame {
+public class Usuarios extends JFrame {
 
     public Usuarios(Principal principal) throws SQLException {
         initComponents();
