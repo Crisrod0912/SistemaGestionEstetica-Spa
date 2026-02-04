@@ -43,6 +43,7 @@ Prices vary depending on the type of service; seniors and children under 5 years
 ### 📋 Prerequisites
 
 - 💻 [Apache Netbeans](https://netbeans.apache.org/front/main/index.html) (recommended: Apache Netbeans 28)
+- 🔐 [JBCrypt](https://mvnrepository.com/artifact/org.mindrot/jbcrypt/0.4) (password hashing)
 - 🔌 [MySQL Connector](https://dev.mysql.com/downloads/connector/j/)
 - 🧰 [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
