@@ -47,8 +47,6 @@ Prices vary depending on the type of service; seniors and children under 5 years
 - 🔌 [MySQL Connector](https://dev.mysql.com/downloads/connector/j/)
 - 🧰 [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
----
-
 ### ⚙️ Configuration
 
 Follow these steps to correctly configure and run the project:
